@@ -3,6 +3,7 @@
 This repository contains the implementation of **Insurance Loss Prediction and Fraud Detection** using **XGBoost, LightGBM, and Random Forest Regressor** models. The project leverages machine learning techniques for risk assessment and fraud detection in the insurance sector.
 
 ## Table of Contents
+
 - [Insurance Loss Prediction and Fraud Detection](#insurance-loss-prediction-and-fraud-detection)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
